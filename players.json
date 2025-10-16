@@ -5,7 +5,7 @@
         "points": 0,
         "wins": 0,
         "losses": 0,
-        "photo": "assets/img/Monkey_D_Luffy.png"
+        "photo": "assets/img/luffy_scale.jpg"
     },
     {
         "id": 5,
@@ -70,14 +70,6 @@
         "wins": 0,
         "losses": 0,
         "photo": "assets/img/Sanji.webp"
-    },
-    {
-        "id": 13,
-        "name": "Vero aka La Patronne du Tournoi",
-        "points": 0,
-        "wins": 0,
-        "losses": 0,
-        "photo": "assets/img/yamato.jpg"
     },
     {
         "id": 14,
