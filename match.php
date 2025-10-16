@@ -41,7 +41,7 @@
         });
 
     document.getElementById('randomMatchBtn').onclick = function() {
-    lancerPlusieursMatchs(2); // Lancer 2 matchs en même temps
+    lancerPlusieursMatchs(5); // Lancer 5 matchs en même temps (10 joueurs = 5 matchs 1vs1)
     };
 
     // Fonction pour échapper le HTML (copiée de script.js)
@@ -77,8 +77,6 @@
             return;
         }
         // Créer une copie de la liste pour éviter de tirer deux fois le même joueur dans un match
-            // Exclure Vero des tirages (patrone du tournoi)
-            let joueursDispo = players.filter(p => p.name.trim().toLowerCase() !== 'vero');
         let matchs = [];
         for (let i = 0; i < nbMatchs; i++) {
             if (joueursDispo.length < 2) break;
