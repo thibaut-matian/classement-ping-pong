@@ -5,7 +5,7 @@
         "points": 0,
         "wins": 0,
         "losses": 0,
-        "photo": ""
+        "photo": "assets/img/Monkey_D_Luffy.png"
     },
     {
         "id": 5,
@@ -13,7 +13,7 @@
         "points": 0,
         "wins": 0,
         "losses": 0,
-        "photo": ""
+        "photo": "assets/img/Marshall_D._Teach_Anime_Post_Ellipse_Infobox.webp"
     },
     {
         "id": 6,
@@ -21,7 +21,7 @@
         "points": 0,
         "wins": 0,
         "losses": 0,
-        "photo": ""
+        "photo": "assets/img/Nami_face.jpg"
     },
     {
         "id": 7,
@@ -29,7 +29,7 @@
         "points": 0,
         "wins": 0,
         "losses": 0,
-        "photo": ""
+        "photo": "assets/img/ki_zaru_borsalino_5278.webp"
     },
     {
         "id": 8,
@@ -37,7 +37,7 @@
         "points": 0,
         "wins": 0,
         "losses": 1,
-        "photo": ""
+        "photo": "assets/img/zoeo.png"
     },
     {
         "id": 9,
@@ -45,7 +45,7 @@
         "points": 0,
         "wins": 0,
         "losses": 0,
-        "photo": ""
+        "photo": "assets/img/Kaidou_Anime_Infobox.webp"
     },
     {
         "id": 10,
@@ -53,7 +53,7 @@
         "points": 0,
         "wins": 0,
         "losses": 0,
-        "photo": ""
+        "photo": "assets/img/Newgate.webp"
     },
     {
         "id": 11,
@@ -61,7 +61,7 @@
         "points": 0,
         "wins": 0,
         "losses": 1,
-        "photo": ""
+        "photo": "assets/img/Nico_Robin_3Fe_de_27_ans.webp"
     },
     {
         "id": 12,
@@ -69,21 +69,22 @@
         "points": 0,
         "wins": 0,
         "losses": 0,
-        "photo": ""
+        "photo": "assets/img/Sanji.webp"
     },
     {
         "id": 13,
-        "name": "Vero",
+        "name": "Vero aka La Patronne du Tournoi",
         "points": 0,
         "wins": 0,
         "losses": 0,
-        "photo": ""
+        "photo": "assets/img/yamato.jpg"
     },
     {
         "id": 14,
         "name": "Lisa",
         "points": 0,
         "wins": 0,
-        "losses": 0
+        "losses": 0,
+        "photo": "assets/img/Kozuki_Toki_Portrait.webp"
     }
 ]
