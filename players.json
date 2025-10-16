@@ -1,0 +1,89 @@
+[
+    {
+        "id": 4,
+        "name": "Thibaut",
+        "points": 0,
+        "wins": 0,
+        "losses": 0,
+        "photo": ""
+    },
+    {
+        "id": 5,
+        "name": "James",
+        "points": 0,
+        "wins": 0,
+        "losses": 0,
+        "photo": ""
+    },
+    {
+        "id": 6,
+        "name": "Karen",
+        "points": 0,
+        "wins": 0,
+        "losses": 0,
+        "photo": ""
+    },
+    {
+        "id": 7,
+        "name": "Mehdi ",
+        "points": 0,
+        "wins": 0,
+        "losses": 0,
+        "photo": ""
+    },
+    {
+        "id": 8,
+        "name": "Theo",
+        "points": 0,
+        "wins": 0,
+        "losses": 1,
+        "photo": ""
+    },
+    {
+        "id": 9,
+        "name": "Momo ",
+        "points": 0,
+        "wins": 0,
+        "losses": 0,
+        "photo": ""
+    },
+    {
+        "id": 10,
+        "name": "Jean Luc ",
+        "points": 0,
+        "wins": 0,
+        "losses": 0,
+        "photo": ""
+    },
+    {
+        "id": 11,
+        "name": "Wendy",
+        "points": 0,
+        "wins": 0,
+        "losses": 1,
+        "photo": ""
+    },
+    {
+        "id": 12,
+        "name": "Ilyes",
+        "points": 0,
+        "wins": 0,
+        "losses": 0,
+        "photo": ""
+    },
+    {
+        "id": 13,
+        "name": "Vero",
+        "points": 0,
+        "wins": 0,
+        "losses": 0,
+        "photo": ""
+    },
+    {
+        "id": 14,
+        "name": "Lisa",
+        "points": 0,
+        "wins": 0,
+        "losses": 0
+    }
+]
